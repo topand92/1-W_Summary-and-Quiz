@@ -9,5 +9,5 @@
 ---
 
 - 모델과 데이터셋은 notebook 폴더 내의 다운로드 코드를 활용하면 로컬에 설치할 수 있습니다.
-- 파인튜닝을 테스트한 모델은 Hugging Face에 업로드하였습니다.
+- 파인튜닝을 테스트한 모델은 용량 문제로 인해 Hugging Face에 업로드하였습니다.
   - [Hugging Face](https://huggingface.co/sgjeong/Private_Fine-tuning_Test)
