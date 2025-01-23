@@ -8,5 +8,10 @@
 
 ---
 
+- 프로젝트 위키
+  - [Wiki](https://github.com/topand92/Summary-and-Quiz/wiki)
+
+---
+
 - 파인튜닝 테스트 모델
   - [Hugging Face](https://huggingface.co/sgjeong/Private_Fine-tuning_Test)
