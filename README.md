@@ -1,5 +1,5 @@
 # Summary-and-Quiz
-- 한국어 텍스트 요약 및 퀴즈 생성 AI (2학년 복학 전 겨울학기 프로젝트!)
+- 한국어 텍스트 요약 및 퀴즈 생성 AI (2학년 복학 전 겨울학기 프로젝트)
 
 - 협업용 워크스페이스는 노션에 메인으로 구성했습니다.
   - 링크: [Workspace](https://sj92.notion.site/summary-and-quiz)
