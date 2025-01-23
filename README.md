@@ -15,3 +15,8 @@
 
 - 파인튜닝을 테스트한 모델은 용량 문제로 허깅 페이스에 대신 업로드 했습니다.
   - 링크: [Hugging Face](https://huggingface.co/sgjeong/Private_Fine-tuning_Test)
+
+---
+
+- 이슈 트레킹 테스트
+  - 링크: [Test](https://github.com/topand92/Summary-and-Quiz/issues)
