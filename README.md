@@ -47,5 +47,5 @@ main 파일 구현을 위해 테스트한 코드들
   - 모델 활용 1안
 - v2.ipynb
   - 모델 활용 2안
-- - test.ipynb
+- test.ipynb
   - main 파일의 초안
