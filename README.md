@@ -4,7 +4,7 @@
 ---
 
 - 협업용 Workspace는 Notion에 구성하였습니다.
-  - [Workspace](https://sj92.notion.site/Project-Summary-Quiz-AI-17fc5a5ee03680f9a3e4c8f4a39508f9?pvs=74)
+  - [Workspace](https://sj92.notion.site/summary-quiz-ai)
 
 ---
 
