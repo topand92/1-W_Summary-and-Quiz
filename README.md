@@ -18,5 +18,5 @@
 
 ---
 
-- 이슈 트레킹 테스트
+- 이슈 관리 테스트
   - 링크: [Test](https://github.com/topand92/Summary-and-Quiz/issues)
