@@ -41,8 +41,6 @@
 main 파일 구현을 위해 테스트한 코드들
 - download_llama.py
   - 라마 한국어 모델 다운로드
-- openai.ipynb
-  - OpenAI API Key와 랭체인 테스트
 - v1.ipynb
   - 모델 활용 1안
 - v2.ipynb
